@@ -48,4 +48,17 @@ The below table will send you to the specific problem and my solution.
       </a>
     </th>
   </tr>
+    <tr>
+      <th>04</th>
+    <th>
+      <a href="https://www.hackerrank.com/challenges/compare-the-triplets/problem">
+       Compare Array of Triplets
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/04_compare_the_triplets">
+      Solution
+      </a>
+    </th>
+  </tr>
 </table>

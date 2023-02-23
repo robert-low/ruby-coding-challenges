@@ -56,7 +56,7 @@ The below table will send you to the specific problem and my solution.
      </a>
     </th>
     <th>
-      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/04_compare_the_triplets">
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/04_compare_the_triplets.rb">
       Solution
       </a>
     </th>

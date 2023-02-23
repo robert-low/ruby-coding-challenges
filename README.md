@@ -11,12 +11,12 @@ The below table will send you to the specific problem and my solution.
     <tr>
       <th>01</th>
         <th>
-          <a href="https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true">
+          <a href="https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true" target="_blank">
             Reverse Array
           </a>
         </th>
         <th>
-          <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/01_reverse_array.rb">
+          <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/01_reverse_array.rb" target="_blank">
             Solution
           </a>
         </th>
@@ -24,12 +24,12 @@ The below table will send you to the specific problem and my solution.
     <tr>
       <th>02</th>
       <th>
-        <a href="https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true">
+        <a href="https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true" target="_blank">
         Left Rotation
         </a>
       </th>
       <th>
-        <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/02_left_rotation.rb">
+        <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/02_left_rotation.rb" target="_blank">
           Solution
         </a>
       </th>

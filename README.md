@@ -39,11 +39,11 @@ The below table will send you to the specific problem and my solution.
     <th>03</th>
     <th>
     <a href="https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true" target="_blank">
-    Sum of an array
+    Sum of an Array
     </a>
     </th>
     <th>
-      <a href="#">
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/03_array_sum.rb">
       Solution
       </a>
     </th>

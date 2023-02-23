@@ -10,8 +10,25 @@ The below table will send you to the specific problem and my solution.
     <th>My solution</th>
     <tr>
       <th>01</th>
-      <th><a href="https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true"></a>Reverse Array</th>
-      <th><a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/01_reverse_array.rb">Solution</a></th>
+        <th>
+          <a href="https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true">
+          </a>Reverse Array
+        </th>
+        <th>
+          <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/01_reverse_array.rb">Solution
+          </a>
+        </th>
+    </tr>
+    <tr>
+      <th>02</th>
+      <th>
+        <a href="https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true">
+        </a>Left Rotation
+      </th>
+      <th>
+        <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/02_left_rotation.rb">Solution
+        </a>
+      </th>
     </tr>
   </tr>
 </table>

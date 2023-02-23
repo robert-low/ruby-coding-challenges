@@ -38,7 +38,7 @@ The below table will send you to the specific problem and my solution.
   <tr>
     <th>03</th>
     <th>
-    <a href="https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true" target="_blank">
+    <a href="https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true">
     Sum of an Array
     </a>
     </th>

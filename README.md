@@ -1,2 +1,2 @@
 # ruby-coding-challenges
-A collection of completed exercises from hackerrank.com
+My continuous practice to improve my proficiency in Ruby. The below table will send you to the specific problem and my solution.

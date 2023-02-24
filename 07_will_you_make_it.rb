@@ -14,3 +14,6 @@ def zero_fuel(distance, mpg, fuel_left)
 end
 
 p zero_fuel(50, 25, 2)
+
+
+test

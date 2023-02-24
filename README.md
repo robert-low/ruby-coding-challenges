@@ -61,4 +61,17 @@ The below table will send you to the specific problem and my solution.
       </a>
     </th>
   </tr>
+      <tr>
+      <th>05</th>
+    <th>
+      <a href="https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/ruby">
+       Summation
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/05_summation.rb">
+      Solution
+      </a>
+    </th>
+  </tr>
 </table>

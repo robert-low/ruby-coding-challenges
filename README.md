@@ -82,7 +82,20 @@ The below table will send you to the specific problem and my solution.
      </a>
     </th>
     <th>
-      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/05_min_and_max.rb">
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/06_min_and_max.rb">
+      Solution
+      </a>
+    </th>
+  </tr>
+    <tr>
+      <th>07</th>
+    <th>
+      <a href="https://www.codewars.com/kata/5861d28f124b35723e00005e/train/ruby">
+       Will you make it
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/07_will_you_make_it.rb">
       Solution
       </a>
     </th>

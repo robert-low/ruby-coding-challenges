@@ -8,16 +8,19 @@ def split_the_bill(x)
   individually_spent = []
   x.each {|key, value| individually_spent.push(x[key]) }
   # iterate through hash, push into new array the value for eash spend.
-  fairly_spent = (individually_spent.sum) / x.keys.count
+  fairly_spent = (individually_spent.sum.to_f) / x.keys.count
   # add the total spend together, and divide by number of keys in hash.
-  x.each { |key, value| x[key] = value - fairly_spent }
+  x.each { |key, value| x[key] = (value - fairly_spent).round(2) }
   # reassign valye of hash to be difference beteen what was spent and what was fair, to get what is owed.
+  # If value is a decimal, round to two decimal places.
 end
 
 group = {
-  'A'=>20,
-  'B'=>15,
-  'C'=>10
+  'A'=>40,
+  'B'=>25,
+  'C'=>10,
+  'D'=>153,
+  'E'=>58
 }
 
 p split_the_bill(group) # returns {'A'=>5, 'B'=>0, 'C'=>-5}

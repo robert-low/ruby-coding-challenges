@@ -104,7 +104,7 @@ The below table will send you to the specific problem and my solution.
     <tr>
       <th>08</th>
     <th>
-      <a href="https://www.codewars.com/kata/5861d28f124b35723e00005e/train/ruby">
+      <a href="https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/ruby">
        Two to one
      </a>
     </th>

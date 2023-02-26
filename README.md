@@ -101,7 +101,7 @@ The below table will send you to the specific problem and my solution.
     </th>
   </tr>
   </tr>
-    <tr>
+  <tr>
       <th>08</th>
     <th>
       <a href="https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/ruby">
@@ -110,6 +110,19 @@ The below table will send you to the specific problem and my solution.
     </th>
     <th>
       <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/08_two_to_one.rb">
+      Solution
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>09</th>
+    <th>
+      <a href="https://www.codewars.com/kata/5641275f07335295f10000d0/train/ruby">
+       Split the Bill
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/09_split_the_bill.rb">
       Solution
       </a>
     </th>

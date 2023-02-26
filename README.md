@@ -100,4 +100,18 @@ The below table will send you to the specific problem and my solution.
       </a>
     </th>
   </tr>
+  </tr>
+    <tr>
+      <th>08</th>
+    <th>
+      <a href="https://www.codewars.com/kata/5861d28f124b35723e00005e/train/ruby">
+       Two to one
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/08_two_to_one.rb">
+      Solution
+      </a>
+    </th>
+  </tr>
 </table>

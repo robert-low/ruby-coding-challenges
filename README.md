@@ -1,7 +1,9 @@
 # ruby-coding-challenges
 My continuous practice to improve my proficiency in Ruby.
 <br>
-The below table will send you to the specific problem and my solution.
+The below table will send you to the specific problem and my solution. 
+<br>
+In some cases I have written simple RSpec tests for a method.
 
 <table>
   <tr>

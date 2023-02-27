@@ -7,7 +7,7 @@
 
 def split_the_bill(x)
   individually_spent = []
-  x.each {|key, value| individually_spent.push(x[key]) }
+  x.each { |key, _value| individually_spent.push(x[key]) }
   # iterate through hash, push into new array the value for eash spend.
   fairly_spent = individually_spent.sum.to_f / individually_spent.length
   # add the total spend together, and divide by number of elements in array

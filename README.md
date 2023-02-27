@@ -1,7 +1,7 @@
 # ruby-coding-challenges
 My continuous practice to improve my proficiency in Ruby.
 <br>
-The below table will send you to the specific problem and my solution. 
+The below table will send you to the specific problem and my solution.
 <br>
 In some cases I have written simple RSpec tests for a method.
 
@@ -125,6 +125,19 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     <th>
       <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/09_split_the_bill.rb">
+      Solution
+      </a>
+    </th>
+  </tr>
+  <tr>
+    <th>10</th>
+    <th>
+      <a href="https://www.codewars.com/kata/5208f99aee097e6552000148/train/ruby">
+        Break the Camel Case
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/10_break_camel_case.rb">
       Solution
       </a>
     </th>

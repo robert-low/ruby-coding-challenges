@@ -10,7 +10,9 @@
 # The array will always contain letters in only one case.
 
 def find_missing_letter(arr)
-
+  ((arr[0]..arr[-1]).to_a - arr)[0]
+  # consecutive letters from first to last letter, stored in array
+  # minus original array, returns array of missing letters, get first value
 end
 
-find_missing_letter([["a","b","c","d","f"]])
+p find_missing_letter(["a","b","c","d","f"])

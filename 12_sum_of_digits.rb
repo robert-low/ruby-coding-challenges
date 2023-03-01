@@ -8,7 +8,11 @@
 # The input will be a non-negative integer.
 
 def digital_root(number)
-
+  number_arr = []
+  number.to_s.chars.map do |digit|
+    number_arr << digit.to_i
+  end
+  number_arr.sum
 end
 
-digital_root(16)
+p digital_root(16)

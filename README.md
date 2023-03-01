@@ -142,7 +142,7 @@ In some cases I have written simple RSpec tests for a method.
       </a>
     </th>
   </tr>
-    <tr>
+  <tr>
       <th>11</th>
     <th>
       <a href="https://www.codewars.com/kata/5839edaa6754d6fec10000a2/train/ruby">
@@ -151,6 +151,21 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     <th>
       <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/11_find_the_missing_letter.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
+  </tr>
+    <tr>
+      <th>12</th>
+    <th>
+      <a href="https://www.codewars.com/kata/541c8630095125aba6000c00/ruby">
+        Sum of digits
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/12_sum_of_digits.rb">
       Solution
       </a>
     </th>

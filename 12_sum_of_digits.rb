@@ -7,12 +7,11 @@
 # in this way until a single-digit number is produced.
 # The input will be a non-negative integer.
 
-def digital_root(number)
-  number_arr = []
-  number.to_s.chars.map do |digit|
-    number_arr << digit.to_i
-  end
-  number_arr.sum
+def digital_root(n)
+  sum = n.to_s.chars.map(&:to_i).sum
+  # Iterate, get strings as characters, concert to integer, add together.
+  sum > 9 ? digital_root(sum) : sum
+  # If the sum is less greater than 9, repeat method with new arg, otherwise return.
 end
 
-p digital_root(16)
+p digital_root(493193)

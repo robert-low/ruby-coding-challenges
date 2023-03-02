@@ -5,6 +5,7 @@ RSpec.describe 'scramble' do
     expect(scramble('rkqodlw', 'world')).to eq(true)
     expect(scramble('katas', 'steak')).to eq(false)
     expect(scramble('cedewaraaossoqqyt', 'codewars')).to eq(true)
+    expect(scramble('aa', 'a')).to eq(false)
   end
 
   # it 'passes performance test' do

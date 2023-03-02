@@ -9,9 +9,12 @@ def scramble(s1, s2)
   s2.chars == s2.chars.select { |letter| s1.chars.include?(letter) }
 end
 
-p scramble('rkqodlw', 'world') # true
-p scramble('cedewaraaossoqqyt', 'codewars') # true
-p scramble('katas', 'steak') # false
-p scramble('scriptjava', 'javascript') # true
-p scramble('scriptingjava', 'javascript') # true
-p scramble('aa', 'a') # true
+p scramble('rkqodlw',           'world'     ) # true
+p scramble('cedewaraaossoqqyt', 'codewars'  ) # true
+p scramble('katas',             'steak'     ) # false
+p scramble('scriptjava',        'javascript') # true
+p scramble('scriptingjava',     'javascript') # true
+
+# failing:
+
+p scramble('a', 'aa') # can't make 'aa' from 'a'.

@@ -6,7 +6,7 @@
 # https://www.codewars.com/kata/55c04b4cc56a697bb0000048/train/ruby
 
 def scramble(s1, s2)
-  s2.chars == s2.chars.select { |letter| s1.chars.include?(letter) }
+  s1.split('').length < s2.split('').length ? false : (s2.split('') - s1.split('')).empty?
 end
 
 p scramble('rkqodlw',           'world'     ) # true
@@ -14,7 +14,4 @@ p scramble('cedewaraaossoqqyt', 'codewars'  ) # true
 p scramble('katas',             'steak'     ) # false
 p scramble('scriptjava',        'javascript') # true
 p scramble('scriptingjava',     'javascript') # true
-
-# failing:
-
-p scramble('a', 'aa') # can't make 'aa' from 'a'.
+p scramble('a', 'aa') # false

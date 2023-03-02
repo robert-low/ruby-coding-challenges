@@ -5,12 +5,13 @@ RSpec.describe 'scramble' do
     expect(scramble('rkqodlw', 'world')).to eq(true)
     expect(scramble('katas', 'steak')).to eq(false)
     expect(scramble('cedewaraaossoqqyt', 'codewars')).to eq(true)
-    expect(scramble('aa', 'a')).to eq(false)
+    expect(scramble('aa', 'a')).to eq(true)
+    expect(scramble('a', 'aa')).to eq(false)
   end
 
-  # it 'passes performance test' do
-  #   s1 = 'abcdefghijklmnopqrstuvwxyz' * 100_000
-  #   s2 = 'zyxcba' * 90_000
-  #   expect(scramble(s1, s2)).to eq(true)
-  # end
+  it 'passes performance test' do
+    s1 = 'abcdefghijklmnopqrstuvwxyz' * 100_000
+    s2 = 'zyxcba' * 90_000
+    expect(scramble(s1, s2)).to eq(true)
+  end
 end

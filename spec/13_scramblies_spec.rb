@@ -8,6 +8,6 @@ RSpec.describe 'scramble' do
   end
 
   it 'uses only use lower case letters from a-z in the parameter' do
-    expect(scramble).to_recieve(:message).with(('a'..'z').downcase)
+    expect(scramble('katas', 'steak')).not_to eq(scramble('KATAS', 'STEAK'))
   end
 end

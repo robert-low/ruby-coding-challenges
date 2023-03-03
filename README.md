@@ -171,4 +171,18 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     </tr>
   </tr>
+    <tr>
+      <th>13</th>
+    <th>
+      <a href="https://www.codewars.com/kata/reviews/55f0b9dc6be0544bd30002d5/groups/6401e10b1ad4c30001987aa1">
+        Scramblies
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/13_scramblies.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
 </table>

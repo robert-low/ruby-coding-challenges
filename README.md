@@ -185,4 +185,18 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     </tr>
   </tr>
+      <tr>
+      <th>14</th>
+    <th>
+      <a href="https://leetcode.com/problems/two-sum/">
+        Two-sum
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/14_two_sums.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
 </table>

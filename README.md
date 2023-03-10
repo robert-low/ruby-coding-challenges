@@ -227,4 +227,18 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     </tr>
   </tr>
+      <tr>
+      <th>17</th>
+    <th>
+      <a href="https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/ruby">
+        Moving Zeroes to the End
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/17_moving_zeros_to_the_end.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
 </table>

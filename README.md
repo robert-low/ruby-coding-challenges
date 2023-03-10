@@ -199,4 +199,32 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     </tr>
   </tr>
+  <tr>
+      <th>15</th>
+    <th>
+      <a href="https://leetcode.com/problems/find-all-duplicates-in-an-array/">
+        Duplicate Array
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/15_duplicate_array.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
+    <tr>
+      <th>16</th>
+    <th>
+      <a href="https://leetcode.com/problems/palindrome-number/">
+        Palindrome Number
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/16_palindrome_number.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
 </table>

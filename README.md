@@ -227,7 +227,7 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     </tr>
   </tr>
-      <tr>
+    <tr>
       <th>17</th>
     <th>
       <a href="https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/ruby">
@@ -236,6 +236,20 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     <th>
       <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/17_moving_zeros_to_the_end.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
+    <tr>
+      <th>17</th>
+    <th>
+      <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">
+        Length of Longest Substring
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/18_length_of_longest_substring.rb">
       Solution
       </a>
     </th>

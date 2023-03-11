@@ -242,7 +242,7 @@ In some cases I have written simple RSpec tests for a method.
     </tr>
   </tr>
     <tr>
-      <th>17</th>
+      <th>18</th>
     <th>
       <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">
         Length of Longest Substring
@@ -250,6 +250,20 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     <th>
       <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/18_length_of_longest_substring.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
+      <tr>
+      <th>19</th>
+    <th>
+      <a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">
+        Median of Two Sorted Arrays
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/18_medaian_of_two_sorted_arrays.rb">
       Solution
       </a>
     </th>

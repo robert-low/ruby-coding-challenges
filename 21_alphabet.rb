@@ -5,7 +5,7 @@
 # In this kata you are required to, given a string, replace every letter with its position in the alphabet.
 
 def alphabet_position(text)
-  text.delete!('^a-zA-Z0-9').downcase.chars.sort
+  text.delete!('^a-zA-Z').chars.sort
 end
 
-p alphabet_position("The sunset sets at twelve o' clock.")
+p alphabet_position("The sunet sets at twelve o' clock.")

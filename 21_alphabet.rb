@@ -5,7 +5,10 @@
 # In this kata you are required to, given a string, replace every letter with its position in the alphabet.
 
 def alphabet_position(text)
-  text.delete!('^a-zA-Z').chars.sort
+  text_array = text.delete!('^a-zA-Z').downcase.chars
+  alphabet_hash = {}
+  ('a'..'z').to_a.each_with_index { |letter, index| alphabet_hash[letter] = index + 1 }
+  text_array.map { |letter| alphabet_hash[letter].to_s }.join(' ')
 end
 
 p alphabet_position("The sunet sets at twelve o' clock.")

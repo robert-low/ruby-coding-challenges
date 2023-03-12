@@ -12,3 +12,5 @@ def alphabet_position(text)
 end
 
 p alphabet_position("The sunet sets at twelve o' clock.")
+
+# could have used .ord and minus 96

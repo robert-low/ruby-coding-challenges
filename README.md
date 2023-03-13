@@ -269,7 +269,7 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     </tr>
   </tr>
-        <tr>
+  <tr>
       <th>20</th>
     <th>
       <a href="https://www.codewars.com/kata/5266876b8f4bf2da9b000362/solutions/ruby">
@@ -278,6 +278,20 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     <th>
       <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/20_likes.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
+    <tr>
+      <th>21</th>
+    <th>
+      <a href="https://www.codewars.com/kata/546f922b54af40e1e90001da/ruby">
+        Replace with Alphabet Position
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/21_alphabet.rb">
       Solution
       </a>
     </th>

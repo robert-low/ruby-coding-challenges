@@ -312,4 +312,18 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     </tr>
   </tr>
+    <tr>
+      <th>23</th>
+    <th>
+      <a href="https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true">
+        Plus Minus
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/23_plus_minus.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
 </table>

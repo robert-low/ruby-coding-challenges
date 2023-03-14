@@ -297,4 +297,19 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     </tr>
   </tr>
+    </tr>
+  <tr>
+      <th>22</th>
+    <th>
+      <a href="https://leetcode.com/problems/add-two-numbers/">
+        Add two numbers
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/22_add_two_numbers.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
 </table>

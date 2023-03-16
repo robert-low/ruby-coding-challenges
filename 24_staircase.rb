@@ -15,8 +15,8 @@
 # Complete the staircase function in the editor below.
 # staircase has the following parameter(s): integer
 
-def staircase(n)
-  string = ' ' * (n)
+def staircase(step)
+  string = ' ' * step
   1.upto(n) do |i|
     string[-i] = '#'
     puts string
@@ -27,7 +27,7 @@ end
 # Iterate from 1 up to n
 # On each iteration re-assign the last char of the string from ' ' to '#'
 
-n = 6
-staircase(6)
+step = 6
+staircase(step)
 
 # https://www.geeksforgeeks.org/ruby-integer-upto-function/

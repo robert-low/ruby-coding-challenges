@@ -1,6 +1,6 @@
 # Staircase
 
-# Staircase detail
+# https://www.hackerrank.com/challenges/staircase/problem
 
 # This is a staircase of size 4:
 

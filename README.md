@@ -326,4 +326,32 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     </tr>
   </tr>
+  <tr>
+      <th>24</th>
+    <th>
+      <a href="https://www.hackerrank.com/challenges/staircase/problem">
+        Staircase
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/24_staircase.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
+    <tr>
+      <th>25</th>
+    <th>
+      <a href="https://www.hackerrank.com/challenges/mini-max-sum/problem">
+        Minimum Maximum Sum
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/25_minimum_maximum_sum.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
 </table>

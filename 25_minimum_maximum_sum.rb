@@ -10,5 +10,4 @@ def mini_max_sum(arr)
   # return as interpolated with space
 end
 
-
 mini_max_sum([1, 3, 5, 7, 9]) # --> 16 24

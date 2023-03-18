@@ -340,7 +340,7 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     </tr>
   </tr>
-    <tr>
+  <tr>
       <th>25</th>
     <th>
       <a href="https://www.hackerrank.com/challenges/mini-max-sum/problem">
@@ -349,6 +349,20 @@ In some cases I have written simple RSpec tests for a method.
     </th>
     <th>
       <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/25_minimum_maximum_sum.rb">
+      Solution
+      </a>
+    </th>
+    </tr>
+  </tr>
+    <tr>
+      <th>26</th>
+    <th>
+      <a href="https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true">
+        Matching Strings
+     </a>
+    </th>
+    <th>
+      <a href="https://github.com/robert-low/ruby-coding-challenges/blob/master/26_matching_strings.rb">
       Solution
       </a>
     </th>

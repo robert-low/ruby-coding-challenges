@@ -19,7 +19,7 @@ def matching_strings(string_list, queries)
   # count
 end
 
-string_list = ['ab', 'ab', 'abc']
-queries = ['ab', 'abc', 'bc']
+string_list = %w[ab ab abc]
+queries = %w[ab abc bc]
 
 p matching_strings(string_list, queries)

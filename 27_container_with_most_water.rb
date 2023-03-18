@@ -5,7 +5,15 @@
 # Return the maximum amount of water a container can store.
 
 def max_area(height)
+  # find top 2 highest val elements - 8 + 7
+  # check they're equal, if they are:
+  # calculate distance from one height to the other
+  # multiply distance * largest element
 
+  # if highest vals are different, reassign high val to lowest val
+  # calculate distance from one height to the other
+  # multiply distance * largest element
 end
 
 height = [1, 8, 6, 2, 5, 4, 8, 3, 7]
+p max_area(height)

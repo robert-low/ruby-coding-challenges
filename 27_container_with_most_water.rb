@@ -4,16 +4,21 @@
 # Find two lines that together with the x-axis form a container, such that the container contains the most water.
 # Return the maximum amount of water a container can store.
 
-def max_area(height)
-  # find top 2 highest val elements - 8 + 7
-  # check they're equal, if they are:
-  # calculate distance from one height to the other
-  # multiply distance * largest element
-
-  # if highest vals are different, reassign high val to lowest val
-  # calculate distance from one height to the other
-  # multiply distance * largest element
+def max_area(heights)
+  left_index = 0
+  right_index = heights.length - 1
+  max_area = 0
+  while left_index < right_index
+    local_area = [heights[left_index], heights[right_index]].min * (right_index - left_index) # 8
+    max_area = [local_area, max_area].max
+    if heights[left_index] > heights[right_index]
+      right_index -= 1
+    else
+      left_index += 1
+    end
+  end
+  max_area
 end
 
-height = [1, 8, 6, 2, 5, 4, 8, 3, 7]
-p max_area(height)
+heights = [1, 8, 6, 2, 5, 4, 8, 3, 7]
+p max_area(heights)

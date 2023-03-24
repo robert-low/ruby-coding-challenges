@@ -5,7 +5,7 @@
 
 def simple_array_sum(array)
   sum = 0
-  array.each {|num| sum += num }
+  array.each { |num| sum += num }
   sum
   # OR array.sum
 end
